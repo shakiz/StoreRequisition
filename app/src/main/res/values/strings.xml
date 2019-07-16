@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Store Requisition</string>
+    <string name="item_name">Ball Pen</string>
+    <string name="store">Store</string>
+    <string name="requisition">Requisition</string>
+    <string name="checkOut">Checkout</string>
+    <string name="details">Details</string>
+    <string name="item_price">$26.00</string>
+</resources>

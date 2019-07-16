@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="md_white_1000">#ffffff</color>
+    <color name="colorTransparent">#FFffffff</color>
+    <color name="layoutPart1Color">#BC3EC5B5</color>
+    <color name="button_back_color">#274058</color>
+    <color name="detailsLayoutColor">#4E93C9</color>
+    <color name="textColor">#776D6D</color>
+</resources>
