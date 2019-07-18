@@ -113,9 +113,11 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="2dp"
                         android:text="-"
+                        android:clickable="true"
                         android:layout_gravity="center"
                         android:gravity="center"
                         android:textColor="#1B5E20"
+                        android:onClick="subtractQuantity"
                         android:textSize="18sp"
                         android:id="@+id/QuantityDecrease"/>
 
@@ -155,6 +157,8 @@
                         android:layout_height="wrap_content"
                         android:layout_margin="2dp"
                         android:text="+"
+                        android:clickable="true"
+                        android:onClick="addQuantity"
                         android:layout_gravity="center"
                         android:gravity="center"
                         android:textColor="#1B5E20"

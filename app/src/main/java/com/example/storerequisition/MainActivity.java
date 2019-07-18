@@ -1,20 +1,14 @@
 package com.example.storerequisition;
 
-import android.support.annotation.NonNull;
 import android.support.design.widget.BottomSheetBehavior;
 import android.support.design.widget.CoordinatorLayout;
-import android.support.v4.widget.NestedScrollView;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.view.View;
 import android.widget.LinearLayout;
-
 import com.example.storerequisition.Adapter.RecyclerViewItemAdapter;
 import com.example.storerequisition.Model.ItemModel;
-
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
